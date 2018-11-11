@@ -354,7 +354,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     content:"";
     height:100%;
     width:100%;
-    background: rgba(255,203,15,0.85);
+    background: url('images/back.jpg') no-repeat;
     top:0;
     left:0;
 }

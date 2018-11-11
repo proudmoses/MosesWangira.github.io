@@ -2,14 +2,14 @@
 body {
     font-size: 15px;
     line-height: 24px;
-    font-family: cursive;
+    font-family: roboto;
     color: #484848;
 }
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     text-transform: uppercase;
     color: #484848;
-    font-family: cursive;
+    font-family: roboto;
 }
 h1{font-size: 70px; margin:0; line-height: 72px;}
 h2 {font-size: 30px; margin: 0 0 20px;}
@@ -147,7 +147,7 @@ a:hover,a:focus{ text-decoration: none}
 }
 .list-inline.info a,.list-inline.social_icon a {
     color: #222;
-    font-family: cursive;
+    font-family: roboto;
 }
 .list-inline.info a:hover,.list-inline.social_icon a:hover {
     color: #555;
@@ -370,7 +370,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     outline: 0 none;
     padding: 6px 17px 4px;
     text-transform: uppercase;
-    font-family: cursive;
+    font-family: roboto;
     margin-bottom: 10px;
 }
 #filters > button:hover {

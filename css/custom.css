@@ -343,7 +343,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 
 /* Portfolio */
 #portfolio {
-    background: rgba(0, 0, 0, 0) url("../images/portfolio_bg.jpg") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("../images/back.jpg") no-repeat scroll 0 0;
     background-size:cover;
     position:relative;
     padding-bottom: 102px;

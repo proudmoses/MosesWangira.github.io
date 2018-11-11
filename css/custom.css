@@ -134,7 +134,7 @@ a:hover,a:focus{ text-decoration: none}
 
 /* Top Nav */
 .top_nav {
-    background: #ffcb0f none repeat scroll 0 0;
+    background: #009fff none repeat scroll 0 0;
     overflow: hidden;
     padding: 10px 0;
 }
@@ -185,7 +185,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     margin: 5px -10px 0 0;
 }
 .attr-nav > ul > li > a {
-    color: #ffcb0f;
+    color: #009fff;
     font-size: 20px;
 }
 .attr-nav > ul > li > a:hover,.attr-nav > ul > li > a:focus {
@@ -223,7 +223,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     margin-bottom:20px;
 }
 .carousel-caption h1.second_heading {
-    color:#ffcb0f;
+    color:#009fff;
     margin-bottom:35px;
 }
 .carousel-caption > h3 {
@@ -239,7 +239,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     line-height: 28px;
 }
 .btn.know_btn {
-    background: #ffcb0f none repeat scroll 0 0;
+    background: #009fff none repeat scroll 0 0;
     border-radius: 30px;
     color: #fff;
     font-family: "futura_ltbold",sans-serif;
@@ -257,8 +257,8 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 .btn.know_btn:hover,
 .btn.know_btn:focus {
     background: transparent;
-    color:#ffcb0f;
-    border:1px solid #ffcb0f;
+    color:#009fff;
+    border:1px solid #009fff;
 }
 
 
@@ -280,7 +280,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 .about_content > h2 {
     font-size: 40px;
     margin: 90px 0 15px;
-    color:#ffcb0f;
+    color:#009fff;
 }
 .about_content > h3 {
     font-size: 30px;
@@ -418,7 +418,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 }
 .grid-item:hover .portfolio_hover_area {opacity: 1;}
 .portfolio_hover_area .fa {
-    background: #ffcb0f none repeat scroll 0 0;
+    background: #009fff none repeat scroll 0 0;
     border: 5px solid transparent;
     border-radius: 20px;
     -webkit-border-radius: 5px;
@@ -436,9 +436,9 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 }
 .portfolio_hover_area > a:first-child{  margin-right: 10px;}
 .portfolio_hover_area .fa:hover{
-    border:1px solid #ffcb0f;
+    border:1px solid #009fff;
     background:transparent;
-    color:#ffcb0f;
+    color:#009fff;
 }
 
 /* Testimonial */
@@ -501,7 +501,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     padding-bottom: 70px;
 }
 .testimonial_item:hover .testimonial_content {
-    background: #ffcb0f none repeat scroll 0 0;
+    background: #009fff none repeat scroll 0 0;
 }
 .testimonial_item:hover .testimonial_content::after {
     width: 22px;
@@ -557,8 +557,8 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     resize:none;
 }
 #contact_form .form-control:focus {
-    border: 2px solid #ffcb0f;
-    box-shadow: 0px 0px 5px 1px #ffcb0f;
+    border: 2px solid #009fff;
+    box-shadow: 0px 0px 5px 1px #009fff;
 }
 #contact_form .btn.submit_btn {
     background: #73757e none repeat scroll 0 0;
@@ -627,7 +627,7 @@ footer::after {
     margin: 32px 0 0;
 }
 .footer_social_icon .fa {
-    background: #ffcb0f none repeat scroll 0 0;
+    background: #009fff none repeat scroll 0 0;
     border-radius: 100%;
     color: #222;
     font-size: 20px;
@@ -693,7 +693,7 @@ footer::after {
     margin-top:55px;
 }
 .footer_bottom a {
-    color: #ffcb0f;
+    color: #009fff;
 }
 .footer_bottom a:hover,.footer_bottom a:focus {
     color: #d7a300;

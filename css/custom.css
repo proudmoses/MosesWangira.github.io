@@ -32,7 +32,7 @@ a:hover,a:focus{ text-decoration: none}
 
 /*Preloader css*/
 #loading{
-    background-color: #ffcb0f;
+    background-color: #009fff;
     height: 100%;
     width: 100%;
     position: fixed;
@@ -316,7 +316,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 .why_us_item{ padding-top: 55px;}
 #why_us .fa{
     border-radius: 100%;
-    box-shadow: 0 0 0 10px #ffcb0f, 0 0 0 20px #fadb64, 0 0 0 30px #f7e59c;
+    box-shadow: 0 0 0 10px #009fff, 0 0 0 20px #fadb64, 0 0 0 30px #f7e59c;
     padding: 38px;
     font-size:45px;
 }
@@ -343,7 +343,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     background-size:cover;
     position:relative;
     padding-bottom: 102px;
-    border-bottom:2px solid #ffcb0f;
+    border-bottom:2px solid #009fff;
 }
 #portfolio::before{
     position:absolute;
